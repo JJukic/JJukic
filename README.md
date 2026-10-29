@@ -17,15 +17,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+Systems;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Data-Driven+Business+Optimization;From+Complex+Problems+to+Real+Impact" alt="Animated introduction" />
 
-
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://www.josipjukic.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/josip-jukic-0238b321b/)
-[![Email](https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:josip.jukic@windowslive.com)
-
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=JJukic&label=PROFILE+VIEWS&color=58A6FF&style=flat-square)
+[![Website](https://img.shields.io/badge/Portfolio-josipjukic.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.josipjukic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josip-jukic-0238b321b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josip.jukic@windowslive.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JJukic&color=58A6FF&style=flat-square)
 
 </div>
 

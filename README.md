@@ -1,0 +1,182 @@
+
+<div align="center">
+
+# Hi, I'm Josip Jukic
+
+### AI Engineer · Business Artificial Intelligence · Process Optimization
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineering+%26+Business+Intelligence;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Automation+%7C+Data+%7C+Optimization;Turning+AI+into+Measurable+Business+Impact" alt="Typing SVG" />
+
+<br/>
+
+[![Website](https://img.shields.io/badge/Portfolio-josipjukic.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.josipjukic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josip-jukic-0238b321b/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josip.jukic@windowslive.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=JJukic&color=58A6FF&style=flat-square)
+
+</div>
+
+---
+
+## About Me
+
+I'm an AI enthusiast and Business Artificial Intelligence student based in Switzerland, combining hands-on engineering, operational leadership and intelligent software development.
+
+My focus is on transforming complex business challenges into scalable, data-driven solutions.
+
+- **AI Engineering:** LLMs, AI Agents, RAG and Multi-Agent Systems
+- **Machine Learning:** Predictive Modeling, Reinforcement Learning and Data Science
+- **Business Optimization:** Operations Research, Process Automation and KPI Analytics
+- **Software Development:** Python, TypeScript, Next.js and Data Platforms
+- **Industrial Engineering:** Manufacturing, Lean Management and Process Excellence
+
+**Currently:** Head of Assembly Systems at SCHNEEBERGER AG Lineartechnik.
+
+**Education:** B.Sc. Business Artificial Intelligence (in progress) · Process Engineer HF.
+
+**My philosophy:** AI should deliver measurable business value, not just impressive demos.
+
+---
+
+## Tech Stack
+
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Backend, Frontend & Databases
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools, Cloud & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 01 · SCM Optimizer
+**Supply Chain & Production Optimization**
+
+Python-based linear optimization for manufacturing capacity allocation and production mix planning.
+
+- Linear programming with Google OR-Tools
+- Capacity, demand and service-parts constraints
+- Contribution margin optimization and utilization KPIs
+
+**Stack:** Python · OR-Tools · Pandas · Pydantic
+
+[View Repository](https://github.com/JJukic/SCM_Optimizer)
+
+### 02 · Car Market Intelligence
+**AI-Powered Automotive Market Analytics**
+
+Multi-tenant SaaS platform for data-driven automotive market intelligence in Switzerland.
+
+- Automated data ingestion and processing pipelines
+- AI-powered natural-language analytics
+- Dealer dashboards and market benchmarks
+- Secure read-only SQL agent integration
+
+**Stack:** Python · Next.js · TypeScript · PostgreSQL · Supabase · OpenAI API
+
+*Private repository — project details on my portfolio.*
+
+### 03 · Multi-Agent RAG System
+**Intelligent Insurance Automation**
+
+Multi-agent AI application combining retrieval-augmented generation and multiple LLM providers.
+
+- Hybrid retrieval with ChromaDB and BM25
+- Multi-provider LLM integration
+- Document understanding and insurance Q&A
+- Modular architecture with Docker deployment
+
+**Stack:** Python · Streamlit · ChromaDB · Docker · LLM APIs
+
+*Project overview available on my portfolio.*
+
+### 04 · Reinforcement Learning Trading Bot
+**Autonomous Decision-Making & Financial Data**
+
+Exploration of reinforcement learning for algorithmic trading and backtesting.
+
+- PPO and Soft Actor-Critic algorithms
+- Custom Gymnasium environments
+- Risk management and walk-forward testing
+- Training metrics and interactive reports
+
+**Stack:** Python · PyTorch · Stable-Baselines3 · Pandas · Plotly
+
+[View Repository](https://github.com/JJukic/Trading_Bot)
+
+### 05 · Hotel Reservation System
+**Software Architecture & Database Engineering**
+
+Layered hotel booking system covering reservations, availability and database operations.
+
+**Stack:** Python · SQLite · N-Tier Architecture
+
+[View Repository](https://github.com/JJukic/Hotel-Reservierungssystem)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=JJukic&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=JJukic&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Areas of Interest
+
+| Field | Focus |
+|---|---|
+| Agentic AI | Autonomous Agents & Multi-Agent Workflows |
+| Generative AI | LLMs, RAG & Knowledge Retrieval |
+| Machine Learning | Predictive Analytics & Reinforcement Learning |
+| Business AI | Intelligent Decision Support & Automation |
+| Operations Research | Scheduling, Optimization & Resource Allocation |
+| Data Engineering | Pipelines, SQL & Analytical Systems |
+
+---
+
+## Let's Connect
+
+I'm interested in practical AI applications that bridge technology, engineering and business value.
+
+Whether it's AI automation, intelligent data platforms, machine learning or industrial optimization, I'm always open to exchanging ideas.
+
+**Portfolio:** https://www.josipjukic.com
+
+**LinkedIn:** https://www.linkedin.com/in/josip-jukic-0238b321b/
+
+**Email:** josip.jukic@windowslive.com
+
+<div align="center">
+
+---
+
+*Building intelligent systems that turn data into decisions.*
+
+</div>

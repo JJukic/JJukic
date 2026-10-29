@@ -80,19 +80,6 @@ My focus is on transforming complex business challenges into scalable, data-driv
 
 ---
 
-## Areas of Interest
-
-| Field | Focus |
-|---|---|
-| Agentic AI | Autonomous Agents & Multi-Agent Workflows |
-| Generative AI | LLMs, RAG & Knowledge Retrieval |
-| Machine Learning | Predictive Analytics & Reinforcement Learning |
-| Business AI | Intelligent Decision Support & Automation |
-| Operations Research | Scheduling, Optimization & Resource Allocation |
-| Data Engineering | Pipelines, SQL & Analytical Systems |
-
----
-
 ## Let's Connect
 
 I'm interested in practical AI applications that bridge technology, engineering and business value.

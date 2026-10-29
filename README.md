@@ -9,14 +9,6 @@
     />
   </a>
 
-  <h1>Hi, I'm Josip Jukic</h1>
-
-  <h3>
-    AI Engineer · Business Artificial Intelligence · Process Optimization
-  </h3>
-
-</div>
-
 <div align="center">
 
 # Josip Jukic
@@ -41,20 +33,20 @@
 
 ## About Me
 
-AI Engineer and Business Artificial Intelligence student based in Switzerland, combining industrial engineering, operational leadership and software development.
+I'm an AI enthusiast and Business Artificial Intelligence student based in Switzerland, combining hands-on engineering, operational leadership and intelligent software development.
 
-I design intelligent systems that connect technology with real-world business challenges.
+My focus is on transforming complex business challenges into scalable, data-driven solutions.
 
-- **AI Engineering** — LLMs, Agents, RAG, Multi-Agent Systems
-- **Machine Learning** — Predictive Analytics, Deep Learning, Reinforcement Learning
-- **Software Engineering** — Python, TypeScript, Data Platforms
-- **Business Optimization** — Operations Research, Automation, KPI Analytics
+**AI Engineering:** LLMs, AI Agents, RAG and Multi-Agent Systems
+**Machine Learning:** Predictive Modeling, Reinforcement Learning and Data Science
+**Business Optimization:** Operations Research, Process Automation and KPI Analytics
+**Software Development:** Python, TypeScript, Next.js and Data Platforms
+**Industrial Engineering:** Manufacturing, Lean Management and Process Excellence
 
-**Current Role:** Head of Assembly Systems at SCHNEEBERGER AG Lineartechnik
 
-**Education:** B.Sc. Business Artificial Intelligence (ongoing) | Process Engineer HF
+**Education:** B.Sc. Business Artificial Intelligence · Process Engineer HF.
 
-> Building intelligent solutions that create measurable business value.
+**My philosophy:** AI should deliver measurable business value, not just impressive demos.
 
 ---
 
@@ -80,39 +72,44 @@ I design intelligent systems that connect technology with real-world business ch
 
 <br/>
 
-### AI & Machine Learning
-Python · PyTorch · TensorFlow · Scikit-learn · OpenAI · LangChain · LangGraph · Hugging Face · Ollama · ChromaDB · RAG · AI Agents
-
-### Data Science & Analytics
-Pandas · NumPy · Matplotlib · Plotly · Jupyter · Streamlit · Power BI
-
-### Web & Backend
-FastAPI · Next.js · React · TypeScript · JavaScript · Tailwind CSS · Pydantic
-
-### Databases & Infrastructure
-PostgreSQL · SQLite · Supabase · Docker · AWS · Linux
-
-### DevOps & Automation
-Git · GitHub Actions · n8n · REST APIs · Google OR-Tools
-
-### Advanced Topics
-Reinforcement Learning · PPO · SAC · Vector Databases · Hybrid Search · Operations Research
-
-</details>
-
 ---
 
-## GitHub Activity
+## Tech Stack
+
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Backend, Frontend & Databases
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Tools, Cloud & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JJukic&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=JJukic&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com?user=JJukic&theme=github-dark-blue&hide_border=true" height="165" alt="Contribution Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJukic&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=JJukic&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
